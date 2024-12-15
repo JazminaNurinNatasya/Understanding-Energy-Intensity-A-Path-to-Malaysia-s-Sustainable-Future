@@ -25,7 +25,6 @@ predictions_1990_2021 <- predict(model_1990_2021, newdata = data_1990_2021)
 predictions_2004_2021 <- predict(model_2004_2021, newdata = data_2004_2021)
 
 
-
 # Calculate Performance Metrics for 1990-2021 model
 rmse_1990_2021 <- rmse(data_1990_2021$Energy.intensity, predictions_1990_2021)
 mae_1990_2021 <- mae(data_1990_2021$Energy.intensity, predictions_1990_2021)
