@@ -1,4 +1,4 @@
-#####Objective 2
+#--------------Objective 2-------------#
 
 # Load necessary libraries
 library(forecast)  # For ARIMA, ETS models
