@@ -51,7 +51,7 @@ cat("MAPE:", mape_2004_2021, "\n")
 cat("MAD:", mad_2004_2021, "\n")
 
 
-#######Objective 3
+#---------------------Objective 3------------------------#
 
 
 #ARIMA Industrial
